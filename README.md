@@ -22,7 +22,6 @@ A versatile professional with expertise spanning Marketing and Management, and a
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovaguimian&layout=donut&theme=shadow_red)](https://github.com/chovaguimian/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovaguimian&layout=donut-vertical&theme=shadow_red)](https://github.com/chovaguimian/github-readme-stats)
 
 ![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=chovaguimian&show_icons=true&theme=shadow_red)
