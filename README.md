@@ -4,10 +4,13 @@
 
 
 ### 🤹🏻‍♀️ Main skills: 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Power BI](https://img.shields.io/badge/PowerBI-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; ![Power BI](https://img.shields.io/badge/PowerBI-3776AB?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 
 ### 📧 Send me an email: <a href="mailto:cahovmo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovaguimian&layout=donut)](https://github.com/chovaguimian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovaguimian&layout=donut&theme=shadow_red)](https://github.com/chovaguimian/github-readme-stats)
+
+
+![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=chovaguimian&show_icons=true&theme=shadow_red)
