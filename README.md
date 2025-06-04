@@ -9,3 +9,5 @@
 ### 📧 Send me an email: <a href="mailto:cahovmo@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chovaguimian&layout=donut)](https://github.com/chovaguimian/github-readme-stats)
